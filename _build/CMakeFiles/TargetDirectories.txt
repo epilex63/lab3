@@ -1,0 +1,17 @@
+/home/epal/lab3/_build/CMakeFiles/edit_cache.dir
+/home/epal/lab3/_build/CMakeFiles/rebuild_cache.dir
+/home/epal/lab3/_build/formatter_lib/CMakeFiles/formatter.dir
+/home/epal/lab3/_build/formatter_lib/CMakeFiles/edit_cache.dir
+/home/epal/lab3/_build/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/epal/lab3/_build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/home/epal/lab3/_build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/home/epal/lab3/_build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/home/epal/lab3/_build/hello_world_application/CMakeFiles/hello_world.dir
+/home/epal/lab3/_build/hello_world_application/CMakeFiles/edit_cache.dir
+/home/epal/lab3/_build/hello_world_application/CMakeFiles/rebuild_cache.dir
+/home/epal/lab3/_build/solver_lib/CMakeFiles/solver_lib.dir
+/home/epal/lab3/_build/solver_lib/CMakeFiles/edit_cache.dir
+/home/epal/lab3/_build/solver_lib/CMakeFiles/rebuild_cache.dir
+/home/epal/lab3/_build/solver_application/CMakeFiles/solver.dir
+/home/epal/lab3/_build/solver_application/CMakeFiles/edit_cache.dir
+/home/epal/lab3/_build/solver_application/CMakeFiles/rebuild_cache.dir
